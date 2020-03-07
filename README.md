@@ -21,6 +21,8 @@ $ npm run generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
+## Session
+
 ## Links
 
 - [インストール - Nuxt.js](https://ja.nuxtjs.org/guide/installation)
