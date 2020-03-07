@@ -2,20 +2,6 @@
 
 > Nuxt.js beginner tutorial
 
-## Build Setup
+# Links
 
-``` bash
-# install dependencies
-$ npm run install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
+- [Nuxt.jsとAuth0でモダンなソーシャルログインを実装してみる](https://tech.smartcamp.co.jp/entry/2019/05/31/185456)
